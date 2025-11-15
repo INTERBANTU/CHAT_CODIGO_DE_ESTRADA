@@ -1,0 +1,38 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Impressão digital em formato de África - cor laranja #cf5001 -->
+  <g stroke="#cf5001" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Contorno principal da África -->
+    <path d="M30 15 C25 15, 20 18, 18 25 C16 32, 15 38, 16 45 C17 52, 20 58, 25 62 C30 66, 35 68, 40 69 C45 70, 55 70, 60 69 C65 68, 70 66, 75 62 C80 58, 83 52, 84 45 C85 38, 84 32, 82 25 C80 18, 75 15, 70 15 C65 15, 60 17, 55 20 C50 17, 45 15, 40 15 Z" />
+    
+    <!-- Linhas de impressão digital horizontais - parte superior -->
+    <path d="M35 25 Q50 28, 65 25" stroke-width="3.5" />
+    <path d="M33 32 Q50 35, 67 32" stroke-width="3.5" />
+    <path d="M31 39 Q50 42, 69 39" stroke-width="3.5" />
+    
+    <!-- Linhas de impressão digital - parte central -->
+    <path d="M30 46 Q50 49, 70 46" stroke-width="3.5" />
+    <path d="M31 53 Q50 56, 69 53" stroke-width="3.5" />
+    <path d="M33 60 Q50 63, 67 60" stroke-width="3.5" />
+    
+    <!-- Linhas de impressão digital - parte inferior -->
+    <path d="M35 67 Q50 70, 65 67" stroke-width="3.5" />
+    <path d="M38 74 Q50 77, 62 74" stroke-width="3.5" />
+    
+    <!-- Linhas verticais/curvas - lado esquerdo -->
+    <path d="M25 38 Q28 43, 25 48" stroke-width="3" />
+    <path d="M23 52 Q26 57, 23 62" stroke-width="3" />
+    
+    <!-- Linhas verticais/curvas - lado direito -->
+    <path d="M75 38 Q72 43, 75 48" stroke-width="3" />
+    <path d="M77 52 Q74 57, 77 62" stroke-width="3" />
+    
+    <!-- Linhas adicionais para textura de impressão digital -->
+    <path d="M28 45 Q31 48, 28 51" stroke-width="2.5" />
+    <path d="M72 45 Q69 48, 72 51" stroke-width="2.5" />
+    <path d="M38 28 Q41 31, 38 34" stroke-width="2.5" />
+    <path d="M62 28 Q59 31, 62 34" stroke-width="2.5" />
+    <path d="M36 35 Q38 37, 36 39" stroke-width="2" />
+    <path d="M64 35 Q62 37, 64 39" stroke-width="2" />
+  </g>
+</svg>
+

@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Banco de dados
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+chroma_db_*/
+model/chroma_db/
+model/chroma_db_*/
+
+# Uploads
+uploads/
+model/uploads/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+client/dist/
+client/build/
+*.pyc
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
