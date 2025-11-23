@@ -40,7 +40,7 @@ const VirtualAssistant: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       type: 'bot',
-      content: 'Olá! Sou um assistente virtual especializado em Código de Estrada e legislação de trânsito. Estou aqui para ajudá-lo(a) a compreender as regras e normas de trânsito. Como posso ajudá-lo(a) hoje?',
+      content: 'Olá! Sou o IB - EstradaResponde da InterBantu, um assistente virtual especializado em Código de Estrada e legislação de trânsito. Estou aqui para ajudá-lo(a) a compreender as regras e normas de trânsito. Como posso ajudá-lo(a) hoje?',
       timestamp: new Date()
     }
   ]);
@@ -71,7 +71,7 @@ const VirtualAssistant: React.FC = () => {
     if (window.confirm('Tem certeza que deseja limpar a conversa?')) {
       setMessages([{
         type: 'bot',
-        content: 'Olá! Sou um assistente virtual especializado em Código de Estrada e legislação de trânsito. Estou aqui para ajudá-lo(a) a compreender as regras e normas de trânsito. Como posso ajudá-lo(a) hoje?',
+        content: 'Olá! Sou o IB - EstradaResponde da InterBantu, um assistente virtual especializado em Código de Estrada e legislação de trânsito. Estou aqui para ajudá-lo(a) a compreender as regras e normas de trânsito. Como posso ajudá-lo(a) hoje?',
         timestamp: new Date()
       }]);
       toast.success('Conversa limpa');
@@ -150,11 +150,11 @@ const VirtualAssistant: React.FC = () => {
             <div className="flex items-center space-x-2 sm:space-x-3">
               <Logo size={28} className="sm:w-8 sm:h-8" />
               <div className="hidden md:block">
-                <h1 className="text-lg sm:text-xl font-bold text-gray-900">Assistente Virtual</h1>
-                <p className="text-xs sm:text-sm font-medium" style={{ color: '#cf5001' }}>Código de Estrada</p>
+                <h1 className="text-lg sm:text-xl font-bold text-gray-900">IB - EstradaResponde</h1>
+                <p className="text-xs sm:text-sm font-medium italic" style={{ color: '#cf5001' }}>"A estrada tem perguntas — nós temos as respostas."</p>
               </div>
               <div className="md:hidden">
-                <h1 className="text-xs font-bold text-gray-900">Código de Estrada</h1>
+                <h1 className="text-xs font-bold text-gray-900">IB - EstradaResponde</h1>
               </div>
             </div>
             <div className="flex items-center space-x-1 sm:space-x-4">

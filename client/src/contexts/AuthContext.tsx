@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState, ReactNode } from 'react';
+import { createContext, useContext, useState, ReactNode } from 'react';
 
 interface User {
   email: string;
@@ -18,19 +18,19 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 // Demo credentials
 const VALID_CREDENTIALS = [
   {
-    email: 'usuario@codigoestrada.mz',
+    email: 'usuario@interbantu.com',
     password: 'usuario2024',
     role: 'user' as const,
     name: 'Usuário'
   },
   {
-    email: 'gestor@codigoestrada.mz',
+    email: 'gestor@interbantu.com',
     password: 'gestor2024',
     role: 'manager' as const,
     name: 'Gestor'
   },
   {
-    email: 'admin@codigoestrada.mz',
+    email: 'admin@interbantu.com',
     password: 'admin2024',
     role: 'admin' as const,
     name: 'Administrador'
