@@ -16,6 +16,16 @@
 
 Sistema de chatbot inteligente desenvolvido pela **InterBantu** para responder perguntas sobre o **Código da Estrada de Moçambique** e legislação de trânsito rodoviário. Utiliza tecnologias de inteligência artificial (IA) para processar documentos legais e fornecer respostas precisas baseadas na legislação oficial, sempre citando as fontes (artigos, números e alíneas) e incluindo valores de multas quando disponíveis.
 
+### 📄 Documento Oficial
+
+**Acesso rápido ao documento base do sistema:**
+
+📋 [**Decreto-Lei n.º 1/2011 - Código da Estrada**](https://www.imahanjane.co.mz/wp-content/uploads/2021/03/Decreto-Lei-n-01.2011-Aprova-o-Codigo-da-Estrada.pdf)
+
+Este é o documento oficial que serve como base de conhecimento do IB - EstradaResponde. Você pode consultá-lo diretamente para verificar informações ou obter mais detalhes sobre qualquer artigo.
+
+---
+
 ## 🎬 Como Funciona - Fluxo Completo
 
 ### 1️⃣ Tela de Login
