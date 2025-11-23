@@ -1,6 +1,140 @@
-# ChatBot Código de Estrada
+# IB - EstradaResponde
 
-Sistema de chatbot inteligente desenvolvido para responder perguntas sobre o **Código da Estrada de Moçambique** e legislação de trânsito rodoviário. Utiliza tecnologias de inteligência artificial (IA) para processar documentos legais e fornecer respostas precisas baseadas na legislação oficial, sempre citando as fontes (artigos, números e alíneas) e incluindo valores de multas quando disponíveis.
+<div align="center">
+
+![IB - EstradaResponde](client/public/IB_ESTRADA_RESPONDE/00%20-%20Login.png)
+
+**"A estrada tem perguntas — nós temos as respostas."**
+
+*O teu guia inteligente do Código da Estrada*
+
+[![Powered by InterBantu](https://img.shields.io/badge/Powered%20by-InterBantu-orange?style=flat-square)](https://interbantu.com)
+
+</div>
+
+---
+
+Sistema de chatbot inteligente desenvolvido pela **InterBantu** para responder perguntas sobre o **Código da Estrada de Moçambique** e legislação de trânsito rodoviário. Utiliza tecnologias de inteligência artificial (IA) para processar documentos legais e fornecer respostas precisas baseadas na legislação oficial, sempre citando as fontes (artigos, números e alíneas) e incluindo valores de multas quando disponíveis.
+
+## 🎬 Como Funciona - Fluxo Completo
+
+### 1️⃣ Tela de Login
+
+O sistema começa com uma tela de login intuitiva e responsiva, onde você pode selecionar seu perfil (Usuário, Gestor ou Administrador) e fazer login automaticamente com as credenciais de teste.
+
+![Tela de Login](client/public/IB_ESTRADA_RESPONDE/00%20-%20Login.png)
+
+**Características:**
+- Design moderno e responsivo para mobile e desktop
+- Seleção visual de perfil com preenchimento automático de credenciais
+- Interface otimizada para diferentes tamanhos de tela
+
+---
+
+### 2️⃣ Tela Inicial do Assistente Virtual
+
+Após o login, você é recebido pelo **IB - EstradaResponde** com uma mensagem de boas-vindas e perguntas sugeridas para começar rapidamente.
+
+![Tela Inicial - Assistente Virtual](client/public/IB_ESTRADA_RESPONDE/01%20-%20Usuario%20-%20Tela%20Inicial.png)
+
+**Funcionalidades:**
+- Mensagem de apresentação do IB - EstradaResponde da InterBantu
+- Perguntas sugeridas por categoria (Velocidade, Multas, Condução, etc.)
+- Interface de chat limpa e intuitiva
+- Histórico de conversa persistente
+
+---
+
+### 3️⃣ Exemplo de Uso: Consulta sobre Carta de Condução
+
+#### Pergunta: "Esqueci a carta de condução, qual é a multa?"
+
+O sistema busca informações relevantes no Código da Estrada e fornece uma resposta completa com:
+
+- **Explicação clara e direta** da infração
+- **Valor da multa** quando disponível
+- **Citações precisas** dos artigos, números e alíneas
+- **Seção de fontes** no final da resposta
+
+![Consulta - Carta de Condução - Parte 1](client/public/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P1%20-%20Esqueci%20Carta%20de%20Conducao.png)
+
+![Consulta - Carta de Condução - Parte 2](client/public/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P2%20-%20Esqueci%20Carta%20de%20Conducao.png)
+
+**Detalhes da Resposta:**
+- Artigo 127 do Código da Estrada
+- Número específico da infração
+- Valor da multa em meticais (MT)
+- Referências completas aos documentos oficiais
+
+---
+
+### 4️⃣ Exemplo de Uso: Consulta sobre Multas por Velocidade
+
+#### Pergunta: "Quais são as multas dentro e fora das localidades?"
+
+O sistema fornece uma resposta abrangente sobre limites de velocidade e multas relacionadas, incluindo:
+
+- **Limites de velocidade** para diferentes tipos de veículos
+- **Valores de multas** para excesso de velocidade
+- **Diferenças** entre dentro e fora das localidades
+- **Citações completas** de todos os artigos relevantes
+
+![Consulta - Multas - Parte 1](client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P1%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
+
+![Consulta - Multas - Parte 2](client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P2%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
+
+![Consulta - Multas - Parte 3](client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P3%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
+
+**Características da Resposta:**
+- Organização em seções claras
+- Tabelas e listas quando apropriado
+- Múltiplos artigos citados quando relevante
+- Seção de fontes completa no final
+
+---
+
+## 🔄 Fluxo Completo do Sistema
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  1. LOGIN                                                    │
+│     • Selecionar perfil (Usuário/Gestor/Admin)              │
+│     • Credenciais preenchidas automaticamente                │
+└──────────────────────┬──────────────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────────────┐
+│  2. ASSISTENTE VIRTUAL                                       │
+│     • Mensagem de boas-vindas do IB - EstradaResponde       │
+│     • Perguntas sugeridas por categoria                      │
+└──────────────────────┬──────────────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────────────┐
+│  3. FAZER PERGUNTA                                           │
+│     • Digitar pergunta sobre Código da Estrada              │
+│     • Sistema busca em documentos processados                │
+└──────────────────────┬──────────────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────────────┐
+│  4. PROCESSAMENTO                                            │
+│     • Busca semântica no ChromaDB                            │
+│     • Recuperação de contexto relevante                      │
+│     • Geração de resposta pelo LLM                           │
+└──────────────────────┬──────────────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────────────┐
+│  5. RESPOSTA                                                 │
+│     • Explicação clara e direta                              │
+│     • Valores de multas quando disponíveis                   │
+│     • Citações de artigos, números e alíneas                 │
+│     • Seção de fontes completa                               │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
 
 ## 📋 Sobre o Projeto
 
@@ -208,14 +342,14 @@ Abra o navegador e acesse: `http://localhost:5174`
 
 Use uma das credenciais de demonstração:
 
-- **Usuário**: `usuario@codigoestrada.mz` / `usuario2024`
+- **Usuário**: `usuario@interbantu.com` / `usuario2024`
   - Acesso ao Assistente Virtual para fazer perguntas
 
-- **Gestor**: `gestor@codigoestrada.mz` / `gestor2024`
+- **Gestor**: `gestor@interbantu.com` / `gestor2024`
   - Acesso ao Painel do Gestor para gerenciar documentos
   - Acesso ao Assistente Virtual
 
-- **Admin**: `admin@codigoestrada.mz` / `admin2024`
+- **Admin**: `admin@interbantu.com` / `admin2024`
   - Acesso completo ao Painel do Administrador
   - Visualização de estatísticas e gerenciamento de usuários
 
