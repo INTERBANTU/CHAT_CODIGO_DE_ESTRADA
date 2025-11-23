@@ -349,7 +349,7 @@ const VirtualAssistant: React.FC = () => {
                 value={inputValue}
                 onChange={(e) => setInputValue(e.target.value)}
                 onKeyPress={handleKeyPress}
-                placeholder="Digite sua pergunta sobre o regulamento acadêmico..."
+                placeholder="Digite sua pergunta sobre o Código da Estrada..."
                 className="w-full px-2 sm:px-4 py-2 sm:py-3 pr-8 sm:pr-12 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:border-transparent resize-none bg-white shadow-sm text-xs sm:text-base"
                 style={{ 
                   minHeight: '36px', 
