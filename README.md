@@ -423,7 +423,7 @@ Use uma das credenciais de demonstração:
 4. Selecione arquivos PDF com decretos e legislação de trânsito
    - **Importante**: Use o documento com texto extraído disponível em [`docs/DECRETO - LEI NR 01 - APROVA O CODIGO DA ESTRADA.pdf`](docs/DECRETO%20-%20LEI%20NR%2001%20-%20APROVA%20O%20CODIGO%20DA%20ESTRADA.pdf)
    - O documento original online é uma versão escaneada (imagens) e não pode ser processado pelo sistema
-5. Aguarde o processamento (pode levar alguns minutos dependendo do tamanho)
+5. Aguarde o processamento.
 6. O sistema processará automaticamente e dividirá em segmentos para busca
 
 ### 4. Fazer Perguntas (Usuário/Gestor/Admin)
