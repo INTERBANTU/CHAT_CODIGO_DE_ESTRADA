@@ -147,6 +147,12 @@ O painel do gestor permite gerenciar toda a base de conhecimento do sistema, inc
 4. O sistema divide os documentos em segmentos para busca eficiente
 5. Os documentos ficam disponíveis para consulta no assistente virtual
 
+> **📌 Nota Importante sobre o Documento para Upload:**
+> 
+> O documento original do Decreto-Lei n.º 1/2011 disponível online é uma versão escaneada (imagens), não contendo texto extraível. Para uso no sistema, utilize o **documento processado com texto extraído** que está disponível em: [`docs/DECRETO - LEI NR 01 - APROVA O CODIGO DA ESTRADA.pdf`](docs/DECRETO%20-%20LEI%20NR%2001%20-%20APROVA%20O%20CODIGO%20DA%20ESTRADA.pdf)
+> 
+> Este documento foi extraído do original escaneado e contém texto pesquisável, permitindo que o sistema processe e indexe corretamente o conteúdo para as consultas do assistente virtual.
+
 ---
 
 ## 🔄 Fluxo Completo do Sistema
@@ -415,7 +421,8 @@ Use uma das credenciais de demonstração:
 2. Acesse o **Painel do Gestor** ou **Painel do Administrador**
 3. Na seção "Documentos", clique em "Fazer Upload"
 4. Selecione arquivos PDF com decretos e legislação de trânsito
-   - Exemplo: Decreto-Lei n.º 1/2011 - Código da Estrada
+   - **Importante**: Use o documento com texto extraído disponível em [`docs/DECRETO - LEI NR 01 - APROVA O CODIGO DA ESTRADA.pdf`](docs/DECRETO%20-%20LEI%20NR%2001%20-%20APROVA%20O%20CODIGO%20DA%20ESTRADA.pdf)
+   - O documento original online é uma versão escaneada (imagens) e não pode ser processado pelo sistema
 5. Aguarde o processamento (pode levar alguns minutos dependendo do tamanho)
 6. O sistema processará automaticamente e dividirá em segmentos para busca
 
