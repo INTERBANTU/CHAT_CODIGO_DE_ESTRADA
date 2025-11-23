@@ -550,11 +550,7 @@ Este projeto está licenciado sob a **Apache License 2.0**. O texto completo da 
 
 #### ❌ O que você NÃO PODE fazer:
 
-1. **Uso de Marcas Registradas**
-   - Você NÃO PODE usar as marcas registradas, nomes comerciais ou logotipos da InterBantu sem permissão explícita
-   - O uso do nome "InterBantu" ou "IB - EstradaResponde" como marca requer autorização
-
-2. **Remover Avisos**
+1. **Remover Avisos**
    - Você NÃO PODE remover avisos de copyright ou licença do código original
 
 3. **Responsabilidade**
@@ -591,8 +587,6 @@ Os desenvolvedores e a InterBantu não serão responsáveis por:
 ### Propriedade Intelectual
 
 - O código-fonte é licenciado sob Apache License 2.0
-- As marcas "InterBantu" e "IB - EstradaResponde" são propriedade da InterBantu
-- O uso de marcas e logotipos requer autorização prévia por escrito
 
 ### Contribuições
 
