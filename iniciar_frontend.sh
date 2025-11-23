@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Script para iniciar o frontend do Chatbot Código de Estrada
+# Script para iniciar o frontend do IB - EstradaResponde
 
-echo "🚗 Iniciando Frontend - Chatbot Código de Estrada"
+echo "🚗 Iniciando Frontend - IB - EstradaResponde"
 echo "=================================================="
 
 # Navegar para a pasta do frontend

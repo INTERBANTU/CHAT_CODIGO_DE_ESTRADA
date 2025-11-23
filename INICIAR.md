@@ -1,4 +1,4 @@
-# 🚀 Como Rodar o Chatbot Código de Estrada
+# 🚀 Como Rodar o IB - EstradaResponde
 
 ## 📋 Pré-requisitos
 

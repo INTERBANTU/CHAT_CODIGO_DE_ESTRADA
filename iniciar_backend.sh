@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Script para iniciar o backend do Chatbot Código de Estrada
+# Script para iniciar o backend do IB - EstradaResponde
 
-echo "🚗 Iniciando Backend - Chatbot Código de Estrada"
+echo "🚗 Iniciando Backend - IB - EstradaResponde"
 echo "================================================"
 
 # Navegar para a pasta do backend

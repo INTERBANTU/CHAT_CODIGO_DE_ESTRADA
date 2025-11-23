@@ -1,5 +1,5 @@
 """
-Processador de documentos PDF para o sistema de chatbot.
+Processador de documentos PDF para o sistema IB - EstradaResponde.
 Usa ChromaDB como banco de dados vetorial.
 """
 

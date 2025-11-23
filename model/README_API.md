@@ -1,8 +1,8 @@
-# API do ChatBot Regulamento UEM
+# API do IB - EstradaResponde
 
 ## Descrição
 
-API Flask para o sistema de chatbot acadêmico da UEM. Permite processar documentos PDF, fazer perguntas usando modelos LLM (OpenAI, Claude, Gemini) e gerenciar documentos usando ChromaDB como banco de dados vetorial.
+API Flask para o sistema IB - EstradaResponde. Permite processar documentos PDF do Código da Estrada, fazer perguntas usando modelos LLM (OpenAI, Claude, Gemini) e gerenciar documentos usando ChromaDB como banco de dados vetorial.
 
 ## Características
 

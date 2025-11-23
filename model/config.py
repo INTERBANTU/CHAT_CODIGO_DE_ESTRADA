@@ -1,5 +1,5 @@
 """
-Configuração centralizada para o sistema de chatbot.
+Configuração centralizada para o sistema IB - EstradaResponde.
 Permite trocar facilmente entre diferentes modelos LLM.
 """
 

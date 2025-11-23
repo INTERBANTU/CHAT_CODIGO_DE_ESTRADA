@@ -454,7 +454,7 @@ No Painel do Administrador, você pode ver:
 ## 🏗️ Estrutura do Projeto
 
 ```
-ChatBot Regulamento/
+IB_ESTRADA_RESPONDE/
 ├── client/                 # Frontend React
 │   ├── src/
 │   │   ├── components/      # Componentes React

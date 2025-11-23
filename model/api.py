@@ -1,5 +1,5 @@
 """
-API Flask para o sistema de chatbot.
+API Flask para o sistema IB - EstradaResponde.
 """
 
 import os
@@ -969,7 +969,7 @@ def convert_markdown_to_html(text: str, base_url: str = None) -> str:
 
 @app.route('/api/chat', methods=['POST'])
 def chat():
-    """Endpoint para fazer perguntas ao chatbot."""
+    """Endpoint para fazer perguntas ao IB - EstradaResponde."""
     data = request.get_json()
     
     if not data or 'question' not in data:
