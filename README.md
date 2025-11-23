@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![IB - EstradaResponde](docs/IB_ESTRADA_RESPONDE/00%20-%20Login.png)
+![IB - EstradaResponde](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/00%20-%20Login.png)
 
 **"A estrada tem perguntas — nós temos as respostas."**
 
@@ -22,7 +22,7 @@ Sistema de chatbot inteligente desenvolvido pela **InterBantu** para responder p
 
 O sistema começa com uma tela de login intuitiva e responsiva, onde você pode selecionar seu perfil (Usuário, Gestor ou Administrador) e fazer login automaticamente com as credenciais de teste.
 
-![Tela de Login](docs/IB_ESTRADA_RESPONDE/00%20-%20Login.png)
+![Tela de Login](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/00%20-%20Login.png)
 
 **Características:**
 - Design moderno e responsivo para mobile e desktop
@@ -35,7 +35,7 @@ O sistema começa com uma tela de login intuitiva e responsiva, onde você pode 
 
 Após o login, você é recebido pelo **IB - EstradaResponde** com uma mensagem de boas-vindas e perguntas sugeridas para começar rapidamente.
 
-![Tela Inicial - Assistente Virtual](docs/IB_ESTRADA_RESPONDE/01%20-%20Usuario%20-%20Tela%20Inicial.png)
+![Tela Inicial - Assistente Virtual](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/01%20-%20Usuario%20-%20Tela%20Inicial.png)
 
 **Funcionalidades:**
 - Mensagem de apresentação do IB - EstradaResponde da InterBantu
@@ -56,17 +56,17 @@ O sistema busca informações relevantes no Código da Estrada e fornece uma res
 - **Citações precisas** dos artigos, números e alíneas
 - **Seção de fontes** no final da resposta
 
-![Consulta - Carta de Condução - Parte 1](docs/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P1%20-%20Esqueci%20Carta%20de%20Conducao.png)
+![Consulta - Carta de Condução - Parte 1](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P1%20-%20Esqueci%20Carta%20de%20Conducao.png)
 
-![Consulta - Carta de Condução - Parte 2](docs/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P2%20-%20Esqueci%20Carta%20de%20Conducao.png)
+![Consulta - Carta de Condução - Parte 2](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P2%20-%20Esqueci%20Carta%20de%20Conducao.png)
 
 #### Detalhamento do Artigo 127 - Carta de Condução
 
 As imagens abaixo mostram a resposta detalhada sobre o Artigo 127 do Código da Estrada, incluindo informações completas sobre a obrigatoriedade de portar a carta de condução:
 
-![Artigo 127 - Carta de Condução - Parte 1](docs/IB_ESTRADA_RESPONDE/02%20-%20Artigo%20127%20-%20Carta%20de%20Condu%C3%A7%C3%A3o%20-%20P1.png)
+![Artigo 127 - Carta de Condução - Parte 1](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/02%20-%20Artigo%20127%20-%20Carta%20de%20Condu%C3%A7%C3%A3o%20-%20P1.png)
 
-![Artigo 127 - Carta de Condução - Parte 2](docs/IB_ESTRADA_RESPONDE/02%20-%20Artigo%20127%20-%20Carta%20de%20Condu%C3%A7%C3%A3o%20-%20P2.png)
+![Artigo 127 - Carta de Condução - Parte 2](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/02%20-%20Artigo%20127%20-%20Carta%20de%20Condu%C3%A7%C3%A3o%20-%20P2.png)
 
 📄 **Para conferir o documento oficial completo:** [Decreto-Lei n.º 1/2011 - Código da Estrada](https://www.imahanjane.co.mz/wp-content/uploads/2021/03/Decreto-Lei-n-01.2011-Aprova-o-Codigo-da-Estrada.pdf)
 
@@ -89,11 +89,11 @@ O sistema fornece uma resposta abrangente sobre limites de velocidade e multas r
 - **Diferenças** entre dentro e fora das localidades
 - **Citações completas** de todos os artigos relevantes
 
-![Consulta - Multas - Parte 1](docs/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P1%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
+![Consulta - Multas - Parte 1](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P1%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
 
-![Consulta - Multas - Parte 2](docs/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P2%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
+![Consulta - Multas - Parte 2](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P2%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
 
-![Consulta - Multas - Parte 3](docs/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P3%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
+![Consulta - Multas - Parte 3](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P3%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
 
 **Características da Resposta:**
 - Organização em seções claras
